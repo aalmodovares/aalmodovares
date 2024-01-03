@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Alejandro Almodóvar, PhD student in telecommunication engineering
-- 👀 I’m interested in machine learning, satellites, radar, communications theory.
-- 🌱 I’m currently learning of machine learning for causal modelling
+My name is Alejandro Almodóvar.
+
+I am PhD student in Universidad Politécnica de Madrid, working in causal inference for healthcare purposes.
+
+I am interested in causal discovery, privacy preservation, survival analysis, hidden confounding effects and time-variying causal inferece.
+
 
 
 
